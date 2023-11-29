@@ -4,6 +4,10 @@
 
 Este repositorio contiene una colección de Jupyter Notebooks diseñados para el procesamiento y clasificación de imágenes de Tomografía Computarizada (TC) del pulmón, utilizando Python y técnicas de aprendizaje profundo. Los notebooks están optimizados para ser ejecutados en Google Colab, aprovechando el uso de GPUs. Por otro lado, también se sugiere el uso de Kaggle.
 
+## Documentación Adicional
+
+Para más información sobre la investigación y comparación detallada de resultados obtenidos utilizando estos algoritmos, consulta el documento adjunto: [CORE2023_DeepLearning](CORE2023_CIC-IPN_DeepLearning.pdf).
+
 ## Contenido
 
 1. **Segmentación de Pulmón** (`segmentación_pulmón_OpenCV_TC.ipynb`)
